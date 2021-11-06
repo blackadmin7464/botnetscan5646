@@ -1,0 +1,54 @@
+we will scan telnet and then show you how to make lists from the IP's we get joining.
+
+first of all lets scan .
+
+i will leave a file below to the files i use
+
+let me add the payload.
+
+now do ' python loader.py List.txt '
+
+if that doesn't work make sure you installed python on your os
+
+[CENTOS 7] also works with ubuntu if you know how to install python on it.
+
+you wont get much bots too, i didn't ulimit neither make a good bruted list but you can get a few.
+
+NOW FROM THESE IP ADDRESSES you need to screen -r where you can see all the bots that join.
+
+
+if you see '192.168.0.1' or something starting with 192, no need to copy them
+
+now just copy these ip addresses and put them on a notepad..
+
+
+
+and please don't be saying 'Oh ThoSe ArE HonEyPots!!' i know lmao
+
+okay now when you've got the ip addresses go to hackertarget.com and put them their.
+
+Now with these ASN List copy it again to hackertarget.
+
+and their you go, have your list.
+
+
+now to filter IPV6 addresses i have a special method. Copy what i do ( Notepad++ needed.
+
+
+CTRL + F and copy what i do.
+
+add , to filter out the fucking as shit like this
+don't forget 'bookmark line'
+
+
+now to filter IPV6 do the same thing but bookmark ' :: '
+
+Now their you go, a fucking fresh list . 
+
+Now keep in mind this list is only for telnet so only use tel_brute on this list, ./update wont work.
+
+thanks for watching 
+
+the files and Discord is in the description.
+
+IF YOU NEED HELP JOIN THE DISCORD.
